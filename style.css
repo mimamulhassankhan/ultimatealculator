@@ -6,12 +6,11 @@
 
 .row {
     background-color: black;
-    opacity: 70%;
+    opacity: 50%;
     width: 35%;
 }
 
 #display_area {
-    width: 300px;
     height: 15vh;
     text-align: end;
     color: white;
@@ -26,16 +25,12 @@
     background-color: rgb(240, 176, 17);
 }
 
-.btn-dark {
-    background-color: black;
-}
-
 .margin-class {
     padding: 5%;
 }
 
 .container {
-    margin: auto;
+    margin: 0px auto;
 }
 
 html {
